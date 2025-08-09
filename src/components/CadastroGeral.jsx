@@ -1,5 +1,5 @@
 // src/components/CadastroGeral.jsx
-
+//Estou fazendo o link no github
 import React, { useState } from 'react';
 
 const CadastroGeral = () => {
